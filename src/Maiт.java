@@ -17,5 +17,7 @@ public class Maiт {
             }
             System.out.println(Arrays.deepToString(mass));
         }
+
+        System.out.println("new some");
     }
 }
