@@ -4,4 +4,8 @@ public class Maiт {
         System.out.println("2");
     }
 
+    public static void fun3(){
+        System.out.println("three");
+    }
+
 }
