@@ -8,4 +8,10 @@ public class Maiт {
         System.out.println("three");
     }
 
+    public static void main(String[] args) {
+        System.out.println();
+        fun2();
+        fun3();
+    }
+
 }
