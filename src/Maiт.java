@@ -11,11 +11,6 @@ public class Maiт {
             }
         }
 
-        for (int[] ints : mass) {
-            for (int anInt : ints) {
-                System.out.print(anInt + " ");
-            }
-            System.out.println(Arrays.deepToString(mass));
-        }
+        System.out.println(Arrays.deepToString(mass));
     }
 }
